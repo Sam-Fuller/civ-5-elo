@@ -1,77 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Player Rankings</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 8px;
-      text-align: center;
-    }
-    th {
-      background-color: #f4f4f4;
-    }
-    tr:nth-child(even) {
-      background-color: #f9f9f9;
-    }
-  </style>
+	<link rel="stylesheet" href="index.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Player Rankings</title>
 </head>
 <body>
-  <h1>Player Rankings</h1>
-  <table>
-    <thead>
-      <tr>
-        <th>Rank</th>
-        <th>Player</th>
-        <th>Elo</th>
-        <th>Games Played</th>
-      </tr>
-    </thead>
-    <tbody id="rankingTable">
-      <!-- Player data will be dynamically injected here -->
-    </tbody>
-  </table>
-
-  <script>
-    async function loadRankings() {
-      try {
-        // Fetch the elo.json file
-        const response = await fetch('elo.json');
-        const data = await response.json();
-
-        // Sort players by their Elo scores in descending order
-        data.sort((a, b) => b.elo - a.elo);
-
-        // Populate the table
-        const tableBody = document.getElementById('rankingTable');
-        data.forEach((player, index) => {
-          const row = document.createElement('tr');
-          row.innerHTML = `
-            <td>${index + 1}</td>
-            <td>${player.player}</td>
-            <td>${player.elo.toFixed(2)}</td>
-            <td>${player.games}</td>
-          `;
-          tableBody.appendChild(row);
-        });
-      } catch (error) {
-        console.error('Error loading rankings:', error);
-      }
-    }
-
-    // Load the rankings when the page is loaded
-    loadRankings();
-  </script>
+	<section class="player-rankings">
+		<h1 class="player-rankings-title">Player Rankings</h1>
+		<div id="rankingContainer"></div>
+	</section>
+	<section class="game-results">
+		<h1 class="game-results-title">Game Results</h1>
+		<div id="gameResultsContainer"></div>
 </body>
+<script src="index.js"></script>
 </html>

@@ -2,16 +2,22 @@
   {
     "player": "sammie",
     "elo": 1122.6346234610091,
-    "games": 1
+    "games": 1,
+    "wins": 1,
+    "position": 1
   },
   {
     "player": "bagel",
     "elo": 1090.6346234610091,
-    "games": 1
+    "games": 1,
+    "wins": 0,
+    "position": 2
   },
   {
     "player": "dread",
     "elo": 1058.6346234610091,
-    "games": 1
+    "games": 1,
+    "wins": 0,
+    "position": 3
   }
 ]

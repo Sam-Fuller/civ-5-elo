@@ -30,6 +30,8 @@ function updateEloForGame(game, currentElos) {
 				player: player.name,
 				elo: START_ELO,
 				games: 0,
+				wins: 0,
+				position: 0
 			});
 		}
 	});
@@ -58,10 +60,13 @@ function updateEloForGame(game, currentElos) {
 
 		const eloChange = ELO_RATE * comparativeRank * eloMultiplier + settlingElo;
 
-		currentElo.elo += eloChange;
 		player.eloChange = eloChange;
+		player.currentElo = currentElo.elo;
+		currentElo.elo += eloChange;
+
+		currentElo.wins += player.rank === 1 ? 1 : 0;
+		currentElo.position += player.rank;
 		
-		console.log(player.name, player.rank, comparativeRank, currentElo.elo, eloChange, settlingElo);
 	});
 }
 

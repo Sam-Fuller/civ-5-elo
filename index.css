@@ -1,0 +1,142 @@
+body {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 50px;
+	font-family: Arial, sans-serif;
+	margin: 20px;
+}
+
+* {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.player-rankings {
+	width: 332px;
+}
+
+.player-rankings-title {
+	text-align: center;
+}
+
+.player-card {
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 16px;
+	margin: 16px;
+	max-width: 300px;
+	transition: box-shadow 0.3s ease;
+}
+
+.player-card:hover {
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.player-card-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.player-card-header .left-element,
+.player-card-header .right-element {
+	flex: 1;
+}
+
+.player-card-body {
+	display: none;
+}
+
+.player-card:hover .player-card-body {
+	display: flex;
+
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	row-gap: 0px;
+	column-gap: 50px;
+}
+
+
+.game-results {
+	width: 482px;
+}
+
+.game-results-title {
+	text-align: center;
+}
+
+
+.game-card {
+	background-color: #f9f9f9;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 16px;
+	margin: 16px;
+	width: 450px;
+	transition: box-shadow 0.3s ease;
+}
+
+.game-card:hover {
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.game-card-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.game-card-header .left-element,
+.game-card-header .right-element {
+	flex: 1;
+}
+
+.game-card-body {
+	display: none;
+}
+
+.game-card:hover .game-card-body {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+
+
+.game-player-card {
+	min-width: 100px;
+	width: min-content;
+
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	padding: 8px;
+	margin: 8px;
+	transition: box-shadow 0.3s ease;
+	white-space: nowrap;
+	text-align: center;
+}
+
+.game-player-card:hover {
+	box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.game-player-card-body {
+	display: flex;
+	justify-content: center;
+}
+
+.elo-change-true {
+	color: green;
+}
+
+.elo-change-false {
+	color: red;
+}
