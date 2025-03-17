@@ -12,6 +12,21 @@ body {
 	margin-bottom: 5px;
 }
 
+.icon {
+	width: 28px;
+	height: 28px;
+}
+
+.small-icon {
+	width: 20px;
+	height: 20px;
+}
+
+.icon-container {
+	display: flex;
+	justify-content: center;
+}
+
 .player-rankings {
 	width: 332px;
 }

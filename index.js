@@ -39,7 +39,11 @@ function gamePlayerCard(player) {
 
 	const card = `
 		<div class="game-player-card">
-			<h3>${player.rank}. ${player.name}</h3>
+			<div class="icon-container">
+				${player.rank === 1 ? '<img src="win-icons/crown.svg" alt="winner" width="25" height="25" title="Winner">' : ""}
+				<img class="small-icon" src="civ-icons/${player.civ}.webp" alt="${player.civ}" title="${player.civ}">
+				<h3>&nbsp${player.name}</h3>
+			</div>
 			<div class="game-player-card-body">
 				<p>${player.currentElo}&nbsp</p> 
 				<p class="elo-change-${isPositive}">(${eloChange})</p></div>
@@ -56,14 +60,20 @@ async function displayGameResults() {
 
 	const gameResultsContainer = document.getElementById('gameResultsContainer');
 
-	games.forEach((game, index) => {
-		const winner = game.players.find(player => player.rank === 1).name || "Draw";
+	games.forEach(game => {
+		const winner = game.players.find(player => player.rank === 1).name;
+		const winningCiv = game.players.find(player => player.rank === 1).civ;
 
 		const gameCard = document.createElement('div');
 		gameCard.className = 'game-card';
 		gameCard.innerHTML = `
 			<div class="game-card-header">
-				<h2>Winner: ${winner}</h2>
+				<div class="icon-container">
+					<img src="win-icons/crown.svg" alt="winner" width="35" height="35" title="Winner">
+					<img class="icon" src="win-icons/${game.victoryType}.webp" alt="${game.victoryType}" title="${game.victoryType}">
+					<img class="icon" src="civ-icons/${winningCiv}.webp" alt="${winningCiv} title="${winningCiv}"">
+					<h2>&nbsp${winner}</h2>
+				</div>
 				<h3>${new Date(game.date).toLocaleDateString()}</h3>
 			</div>
 			<div class="game-card-body">
