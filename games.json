@@ -1,0 +1,24 @@
+[
+  {
+    "players": [
+      {
+        "name": "sammie",
+        "civ": "egypt",
+        "rank": 1,
+        "eloChange": 122.63462346100914
+      },
+      {
+        "name": "bagel",
+        "civ": "korea",
+        "rank": 2,
+        "eloChange": 90.63462346100914
+      },
+      {
+        "name": "dread",
+        "civ": "poland",
+        "rank": 3,
+        "eloChange": 58.63462346100914
+      }
+    ]
+  }
+]
