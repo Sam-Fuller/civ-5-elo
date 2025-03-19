@@ -1,8 +1,6 @@
 const fs = require('fs');
 
-const START_ELO = 1000;
-const SETTLED_ELO = 1500;
-const SETTLING_RATE = 0.2;
+const START_ELO = 1500;
 
 const ELO_RATE = 32;
 
@@ -16,27 +14,29 @@ async function readGames() {
 	}
 }
 
-function getSettlingElo(gameNumber) {
-	const currentElo = START_ELO + (SETTLED_ELO - START_ELO) * (1 - Math.exp(-SETTLING_RATE * gameNumber));
-    const previousElo = START_ELO + (SETTLED_ELO - START_ELO) * (1 - Math.exp(-SETTLING_RATE * (gameNumber - 1)))
-    const settlingElo = currentElo - previousElo
-    return settlingElo
-}
-
 function updateEloForGame(game, currentElos) {
+	game.players.sort((a, b) => {
+		if (a.rank === b.rank) {
+			const aElo = currentElos.find(elo => elo.player === a.name)?.elo || START_ELO;
+			const bElo = currentElos.find(elo => elo.player === b.name)?.elo || START_ELO;
+			return bElo - aElo;
+		}
+		return a.rank - b.rank;
+	});
+
 	game.players.forEach(player => {
 		if (!currentElos.find(elo => elo.player === player.name)) {
 			currentElos.push({
 				player: player.name,
 				elo: START_ELO,
 				games: 0,
-				wins: 0,
-				position: 0
+				wins: 0
 			});
 		}
 	});
 
 	const playerCount = game.players.length;
+	const averageRank = game.players.reduce((a, b) => a + b.rank, 0) / playerCount;
 
 	const totalElo = game.players
 		.map(player => currentElos.find(elo => elo.player === player.name)?.elo || START_ELO)
@@ -47,26 +47,21 @@ function updateEloForGame(game, currentElos) {
 	game.players.forEach(player => {
 		const currentElo = currentElos.find(elo => elo.player === player.name);
 
-		currentElo.games++;
 
-		const comparativeRank =  -(-1 + 2 * (player.rank - 1) / (playerCount - 1));
-
-
+		const comparativeRank =  -(-1 + (player.rank - 1) / (averageRank - 1));
+		
 		const eloMultiplier = averageElo / currentElo.elo;
-
-
-		const settlingElo = getSettlingElo(currentElo.games);
-
-
-		const eloChange = ELO_RATE * comparativeRank * eloMultiplier + settlingElo;
-
+		const eloMultiplierFixed = comparativeRank > 0 ? eloMultiplier : 1/eloMultiplier;
+		const eloChange = ELO_RATE * comparativeRank * eloMultiplierFixed;
+		
+		currentElo.elo += eloChange;
 		player.eloChange = eloChange;
 		player.currentElo = currentElo.elo;
-		currentElo.elo += eloChange;
 
+		currentElo.games++;
 		currentElo.wins += player.rank === 1 ? 1 : 0;
-		currentElo.position += player.rank;
-		
+
+		console.log("eloMultiplier", eloMultiplierFixed, currentElo, averageElo, player.name);
 	});
 }
 

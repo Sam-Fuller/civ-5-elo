@@ -78,13 +78,22 @@ body {
 
 
 .game-results {
-	width: 482px;
+	width: 632px;
 }
 
 .game-results-title {
 	text-align: center;
 }
 
+.game-card-winners{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.game-card-details {
+	text-align: right;
+}
 
 .game-card {
 	background-color: #f9f9f9;
@@ -93,7 +102,7 @@ body {
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 	padding: 16px;
 	margin: 16px;
-	width: 450px;
+	width: 600px;
 	transition: box-shadow 0.3s ease;
 }
 

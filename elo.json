@@ -1,23 +1,38 @@
 [
   {
-    "player": "sammie",
-    "elo": 1122.6346234610091,
-    "games": 1,
-    "wins": 1,
-    "position": 1
+    "player": "Dread",
+    "elo": 1563.3315926892951,
+    "games": 2,
+    "wins": 2
   },
   {
-    "player": "bagel",
-    "elo": 1090.6346234610091,
-    "games": 1,
-    "wins": 0,
-    "position": 2
+    "player": "Benson",
+    "elo": 1550.7955766192733,
+    "games": 2,
+    "wins": 1
   },
   {
-    "player": "dread",
-    "elo": 1058.6346234610091,
-    "games": 1,
-    "wins": 0,
-    "position": 3
+    "player": "Juuls",
+    "elo": 1474.2634666666668,
+    "games": 2,
+    "wins": 0
+  },
+  {
+    "player": "AGuyWithInternet",
+    "elo": 1493.6,
+    "games": 2,
+    "wins": 0
+  },
+  {
+    "player": "Lethal Princess",
+    "elo": 1480.8,
+    "games": 2,
+    "wins": 0
+  },
+  {
+    "player": "Sammie",
+    "elo": 1436.6826666666666,
+    "games": 2,
+    "wins": 0
   }
 ]

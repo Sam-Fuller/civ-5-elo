@@ -1,28 +1,99 @@
 [
   {
-    "date": "2019-01-01",
+    "date": "2025-03-17",
+    "format": "6 ffa",
     "victoryType": "science",
     "players": [
       {
-        "name": "sammie",
-        "civ": "Egypt",
+        "name": "Dread",
+        "civ": "France",
         "rank": 1,
-        "eloChange": 122.63462346100914,
-        "currentElo": 1000
+        "eloChange": 32,
+        "currentElo": 1532
       },
       {
-        "name": "bagel",
-        "civ": "Korea",
+        "name": "Benson",
+        "civ": "Morocco",
         "rank": 2,
-        "eloChange": 90.63462346100914,
-        "currentElo": 1000
+        "eloChange": 19.2,
+        "currentElo": 1519.2
       },
       {
-        "name": "dread",
-        "civ": "Poland",
+        "name": "Juuls",
+        "civ": "Maya",
         "rank": 3,
-        "eloChange": 58.63462346100914,
-        "currentElo": 1000
+        "eloChange": 6.399999999999999,
+        "currentElo": 1506.4
+      },
+      {
+        "name": "AGuyWithInternet",
+        "civ": "Germany",
+        "rank": 4,
+        "eloChange": -6.399999999999999,
+        "currentElo": 1493.6
+      },
+      {
+        "name": "Lethal Princess",
+        "civ": "Greece",
+        "rank": 5,
+        "eloChange": -19.200000000000003,
+        "currentElo": 1480.8
+      },
+      {
+        "name": "Sammie",
+        "civ": "England",
+        "rank": 6,
+        "eloChange": -32,
+        "currentElo": 1468
+      }
+    ]
+  },
+  {
+    "date": "2025-03-18",
+    "format": "2v2v2",
+    "victoryType": "culture",
+    "players": [
+      {
+        "name": "Dread",
+        "civ": "France",
+        "rank": 1,
+        "eloChange": 31.33159268929504,
+        "currentElo": 1563.3315926892951
+      },
+      {
+        "name": "Benson",
+        "civ": "Morocco",
+        "rank": 1,
+        "eloChange": 31.595576619273302,
+        "currentElo": 1550.7955766192733
+      },
+      {
+        "name": "AGuyWithInternet",
+        "civ": "Germany",
+        "rank": 2,
+        "eloChange": 0,
+        "currentElo": 1493.6
+      },
+      {
+        "name": "Lethal Princess",
+        "civ": "Greece",
+        "rank": 2,
+        "eloChange": 0,
+        "currentElo": 1480.8
+      },
+      {
+        "name": "Juuls",
+        "civ": "Maya",
+        "rank": 3,
+        "eloChange": -32.13653333333333,
+        "currentElo": 1474.2634666666668
+      },
+      {
+        "name": "Sammie",
+        "civ": "England",
+        "rank": 3,
+        "eloChange": -31.31733333333333,
+        "currentElo": 1436.6826666666666
       }
     ]
   }
