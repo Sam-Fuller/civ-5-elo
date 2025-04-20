@@ -1,38 +1,176 @@
 [
   {
-    "player": "Dread",
-    "elo": 1563.3315926892951,
-    "games": 2,
+    "player": "TheBritishMan",
+    "elo": 1282.1146127699435,
+    "games": 33,
+    "wins": 4
+  },
+  {
+    "player": "Quinnjamin",
+    "elo": 1250.6912149244044,
+    "games": 21,
     "wins": 2
   },
   {
-    "player": "Benson",
-    "elo": 1550.7955766192733,
-    "games": 2,
+    "player": "SionGragas",
+    "elo": 1875.7648030893265,
+    "games": 13,
+    "wins": 13
+  },
+  {
+    "player": "bagole",
+    "elo": 1236.023229249916,
+    "games": 35,
     "wins": 1
   },
   {
-    "player": "Juuls",
-    "elo": 1474.2634666666668,
-    "games": 2,
+    "player": "BREADNAUTICAL",
+    "elo": 1584.6649888293775,
+    "games": 38,
+    "wins": 14
+  },
+  {
+    "player": "ProblemChild",
+    "elo": 2269.1730510448283,
+    "games": 39,
+    "wins": 32
+  },
+  {
+    "player": "Phattus-Blobbus",
+    "elo": 1497.5302274562828,
+    "games": 8,
+    "wins": 2
+  },
+  {
+    "player": "stevenslushy",
+    "elo": 1472.9418843970534,
+    "games": 4,
     "wins": 0
   },
   {
-    "player": "AGuyWithInternet",
-    "elo": 1493.6,
-    "games": 2,
+    "player": "crab",
+    "elo": 1460.2415425335723,
+    "games": 5,
+    "wins": 0
+  },
+  {
+    "player": "CameronTheDeviledEgg",
+    "elo": 1316.1789936649188,
+    "games": 12,
+    "wins": 0
+  },
+  {
+    "player": "smallman",
+    "elo": 1514.5444603447156,
+    "games": 5,
+    "wins": 2
+  },
+  {
+    "player": "Astra",
+    "elo": 1461.934526739885,
+    "games": 7,
+    "wins": 2
+  },
+  {
+    "player": "banana",
+    "elo": 1406.9036552982236,
+    "games": 9,
+    "wins": 1
+  },
+  {
+    "player": "Salmon",
+    "elo": 1425.557996504899,
+    "games": 5,
+    "wins": 0
+  },
+  {
+    "player": "Greed",
+    "elo": 1529.5308241362047,
+    "games": 1,
+    "wins": 1
+  },
+  {
+    "player": "Ross",
+    "elo": 1470.0799431160556,
+    "games": 1,
+    "wins": 0
+  },
+  {
+    "player": "DatBoiZook",
+    "elo": 1469.5916002809604,
+    "games": 1,
+    "wins": 0
+  },
+  {
+    "player": "Cat",
+    "elo": 1492.2499467486402,
+    "games": 1,
     "wins": 0
   },
   {
     "player": "Lethal Princess",
-    "elo": 1480.8,
+    "elo": 1485.5356177588067,
     "games": 2,
     "wins": 0
   },
   {
-    "player": "Sammie",
-    "elo": 1436.6826666666666,
-    "games": 2,
+    "player": "madde",
+    "elo": 1492.1916749604097,
+    "games": 1,
+    "wins": 0
+  },
+  {
+    "player": "sammieaurelia",
+    "elo": 1509.136611384317,
+    "games": 4,
+    "wins": 1
+  },
+  {
+    "player": "AGuyWithInternet",
+    "elo": 1464.4951308146385,
+    "games": 4,
+    "wins": 0
+  },
+  {
+    "player": "Benson",
+    "elo": 1448.711546103562,
+    "games": 11,
+    "wins": 1
+  },
+  {
+    "player": "Comrade",
+    "elo": 1567.5540599818275,
+    "games": 6,
+    "wins": 3
+  },
+  {
+    "player": "JTP",
+    "elo": 1513.7337643790183,
+    "games": 8,
+    "wins": 2
+  },
+  {
+    "player": "Yoeal",
+    "elo": 1467.4319901491062,
+    "games": 3,
+    "wins": 0
+  },
+  {
+    "player": "InfantHades",
+    "elo": 1493.3166482198612,
+    "games": 1,
+    "wins": 0
+  },
+  {
+    "player": "Draxty",
+    "elo": 1480.35348376116,
+    "games": 3,
+    "wins": 0
+  },
+  {
+    "player": "RaptorCrasher",
+    "elo": 1493.4712330031005,
+    "games": 1,
     "wins": 0
   }
 ]

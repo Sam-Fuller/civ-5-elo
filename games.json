@@ -1,99 +1,2250 @@
 [
   {
-    "date": "2025-03-17",
-    "format": "6 ffa",
-    "victoryType": "science",
+    "date": "2024-11-07T20:04Z",
+    "format": "1v1",
     "players": [
       {
-        "name": "Dread",
-        "civ": "France",
+        "name": "TheBritishMan",
         "rank": 1,
         "eloChange": 32,
         "currentElo": 1532
       },
       {
-        "name": "Benson",
-        "civ": "Morocco",
+        "name": "Quinnjamin",
         "rank": 2,
-        "eloChange": 19.2,
-        "currentElo": 1519.2
-      },
-      {
-        "name": "Juuls",
-        "civ": "Maya",
-        "rank": 3,
-        "eloChange": 6.399999999999999,
-        "currentElo": 1506.4
-      },
-      {
-        "name": "AGuyWithInternet",
-        "civ": "Germany",
-        "rank": 4,
-        "eloChange": -6.399999999999999,
-        "currentElo": 1493.6
-      },
-      {
-        "name": "Lethal Princess",
-        "civ": "Greece",
-        "rank": 5,
-        "eloChange": -19.200000000000003,
-        "currentElo": 1480.8
-      },
-      {
-        "name": "Sammie",
-        "civ": "England",
-        "rank": 6,
         "eloChange": -32,
         "currentElo": 1468
       }
     ]
   },
   {
-    "date": "2025-03-18",
-    "format": "2v2v2",
-    "victoryType": "culture",
+    "date": "2024-11-08T01:43Z",
+    "format": "6 ffa",
     "players": [
       {
-        "name": "Dread",
-        "civ": "France",
+        "name": "SionGragas",
+        "civ": "Siam",
         "rank": 1,
-        "eloChange": 31.33159268929504,
-        "currentElo": 1563.3315926892951
+        "eloChange": 32,
+        "currentElo": 1532
       },
       {
-        "name": "Benson",
-        "civ": "Morocco",
-        "rank": 1,
-        "eloChange": 31.595576619273302,
-        "currentElo": 1550.7955766192733
-      },
-      {
-        "name": "AGuyWithInternet",
-        "civ": "Germany",
+        "name": "TheBritishMan",
         "rank": 2,
-        "eloChange": 0,
+        "eloChange": -6.53653333333334,
+        "currentElo": 1525.4634666666666
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -6.400000000000006,
         "currentElo": 1493.6
       },
       {
-        "name": "Lethal Princess",
-        "civ": "Greece",
+        "name": "BREADNAUTICAL",
         "rank": 2,
-        "eloChange": 0,
-        "currentElo": 1480.8
+        "eloChange": -6.400000000000006,
+        "currentElo": 1493.6
       },
       {
-        "name": "Juuls",
-        "civ": "Maya",
-        "rank": 3,
-        "eloChange": -32.13653333333333,
-        "currentElo": 1474.2634666666668
+        "name": "ProblemChild",
+        "rank": 2,
+        "eloChange": -6.400000000000006,
+        "currentElo": 1493.6
       },
       {
-        "name": "Sammie",
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -6.263466666666671,
+        "currentElo": 1461.7365333333332
+      }
+    ]
+  },
+  {
+    "date": "2024-11-09T00:06Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "Phattus-Blobbus",
         "civ": "England",
-        "rank": 3,
-        "eloChange": -31.31733333333333,
-        "currentElo": 1436.6826666666666
+        "rank": 1,
+        "eloChange": 31.90897777777778,
+        "currentElo": 1531.9089777777779
+      },
+      {
+        "name": "TheBritishMan",
+        "civ": "Poland",
+        "rank": 2,
+        "eloChange": -16.318026029595284,
+        "currentElo": 1509.1454406370713
+      },
+      {
+        "name": "Quinnjamin",
+        "civ": "Russia",
+        "rank": 2,
+        "eloChange": -15.636333036191827,
+        "currentElo": 1446.1002002971413
+      }
+    ]
+  },
+  {
+    "date": "2024-11-08T01:43Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Assyria",
+        "rank": 1,
+        "eloChange": 31.264910847464623,
+        "currentElo": 1563.2649108474645
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -6.452753697973073,
+        "currentElo": 1502.6926869390982
+      },
+      {
+        "name": "stevenslushy",
+        "rank": 2,
+        "eloChange": -6.41364992818297,
+        "currentElo": 1493.586350071817
+      },
+      {
+        "name": "crab",
+        "rank": 2,
+        "eloChange": -6.41364992818297,
+        "currentElo": 1493.586350071817
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -6.386285021822722,
+        "currentElo": 1487.2137149781772
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -6.183186963854093,
+        "currentElo": 1439.9170133332873
+      }
+    ]
+  },
+  {
+    "date": "2024-11-10T04:04Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Celts",
+        "rank": 1,
+        "eloChange": 30.613133474346878,
+        "currentElo": 1593.8780443218113
+      },
+      {
+        "name": "crab",
+        "rank": 2,
+        "eloChange": -7.989690136144577,
+        "currentElo": 1485.5966599356723
+      },
+      {
+        "name": "stevenslushy",
+        "rank": 2,
+        "eloChange": -7.989690136144577,
+        "currentElo": 1485.5966599356723
+      },
+      {
+        "name": "bagole",
+        "civ": "Maya",
+        "rank": 2,
+        "eloChange": -7.955600791563694,
+        "currentElo": 1479.2581141866135
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -7.70259500412718,
+        "currentElo": 1432.21441832916
+      }
+    ]
+  },
+  {
+    "date": "2024-11-10T23:47Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Greece",
+        "rank": 1,
+        "eloChange": 30.41946118549381,
+        "currentElo": 1624.2975055073052
+      },
+      {
+        "name": "TheBritishMan",
+        "civ": "Inca",
+        "rank": 2,
+        "eloChange": -7.934207107178619,
+        "currentElo": 1494.7584798319197
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -7.919989738560742,
+        "currentElo": 1492.0800102614392
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -7.886197782342882,
+        "currentElo": 1485.713802217657
+      },
+      {
+        "name": "crab",
+        "rank": 2,
+        "eloChange": -7.843940201553757,
+        "currentElo": 1477.7527197341185
+      }
+    ]
+  },
+  {
+    "date": "2024-11-11T00:15Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 31.34241476517579,
+        "currentElo": 1524.9424147651757
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -31.328618178528,
+        "currentElo": 1400.8858001506321
+      }
+    ]
+  },
+  {
+    "date": "2024-11-12T00:55Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 30.951174296468647,
+        "currentElo": 1555.8935890616444
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.809837185815992,
+        "currentElo": 1483.9486426461037
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -10.697741197596399,
+        "currentElo": 1468.5603729890172
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -10.130966052290072,
+        "currentElo": 1390.7548340983421
+      }
+    ]
+  },
+  {
+    "date": "2024-11-13T22:51Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Portugal",
+        "rank": 1,
+        "eloChange": 29.391469653840108,
+        "currentElo": 1653.6889751611454
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.609885398267384,
+        "currentElo": 1473.3387572478364
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -10.499862872657472,
+        "currentElo": 1458.0605101163596
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -9.943571484089945,
+        "currentElo": 1380.8112626142522
+      }
+    ]
+  },
+  {
+    "date": "2024-11-16T04:18Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Brazil",
+        "rank": 1,
+        "eloChange": 30.870279975087296,
+        "currentElo": 1516.5840821927443
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -30.828937060940785,
+        "currentElo": 1349.9823255533115
+      }
+    ]
+  },
+  {
+    "date": "2024-11-16T12:14Z",
+    "format": "3 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "China",
+        "rank": 1,
+        "eloChange": 31.164860177512995,
+        "currentElo": 1587.0584492391574
+      },
+      {
+        "name": "Phattus-Blobbus",
+        "rank": 2,
+        "eloChange": -16.175505000598275,
+        "currentElo": 1515.7334727771795
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -15.395735265403816,
+        "currentElo": 1442.6647748509558
+      }
+    ]
+  },
+  {
+    "date": "2024-11-16T13:11Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Persia",
+        "rank": 1,
+        "eloChange": 29.538587037658267,
+        "currentElo": 1683.2275621988038
+      },
+      {
+        "name": "ProblemChild",
+        "rank": 2,
+        "eloChange": -6.653946820011352,
+        "currentElo": 1580.4045024191462
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -6.358473965356501,
+        "currentElo": 1510.2256082273877
+      },
+      {
+        "name": "stevenslushy",
+        "rank": 2,
+        "eloChange": -6.228555209127554,
+        "currentElo": 1479.3681047265447
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -6.177162374384236,
+        "currentElo": 1467.1615948734523
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -6.04855775511224,
+        "currentElo": 1436.6162170958437
+      }
+    ]
+  },
+  {
+    "date": "2024-11-16T19:41Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "TheBritishMan",
+        "civ": "Greece",
+        "rank": 1,
+        "eloChange": 30.722111922999204,
+        "currentElo": 1497.8837067964514
+      },
+      {
+        "name": "Quinnjamin",
+        "civ": "Maya",
+        "rank": 2,
+        "eloChange": -30.668958092252364,
+        "currentElo": 1319.3133674610592
+      }
+    ]
+  },
+  {
+    "date": "2024-11-17T02:53Z",
+    "format": "6 ffa",
+    "victoryType": "domination",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Persia",
+        "rank": 1,
+        "eloChange": 28.604319200210266,
+        "currentElo": 1711.831881399014
+      },
+      {
+        "name": "ProblemChild",
+        "rank": 2,
+        "eloChange": -6.722390872858089,
+        "currentElo": 1573.682111546288
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -6.423878715331452,
+        "currentElo": 1503.8017295120562
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -6.371381341775478,
+        "currentElo": 1491.5123254546759
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -6.1107746344826,
+        "currentElo": 1430.505442461361
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -5.6118165484115545,
+        "currentElo": 1313.7015509126477
+      }
+    ]
+  },
+  {
+    "date": "2024-11-17T19:43Z",
+    "format": "3 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Zulu",
+        "rank": 1,
+        "eloChange": 28.14635125079989,
+        "currentElo": 1739.978232649814
+      },
+      {
+        "name": "TheBritishMan",
+        "civ": "Russia",
+        "rank": 2,
+        "eloChange": -15.849428024662448,
+        "currentElo": 1475.6628974300133
+      },
+      {
+        "name": "Quinnjamin",
+        "civ": "Shoshone",
+        "rank": 2,
+        "eloChange": -13.959937052970846,
+        "currentElo": 1299.7416138596768
+      }
+    ]
+  },
+  {
+    "date": "2024-11-18T18:35Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "TheBritishMan",
+        "civ": "China",
+        "rank": 1,
+        "eloChange": 30.092558576875867,
+        "currentElo": 1505.7554560068893
+      },
+      {
+        "name": "Quinnjamin",
+        "civ": "Korea",
+        "rank": 2,
+        "eloChange": -29.971653843123992,
+        "currentElo": 1269.769960016553
+      }
+    ]
+  },
+  {
+    "date": "2024-11-21T00:46Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 29.509972067166697,
+        "currentElo": 1533.311701579223
+      },
+      {
+        "name": "Quinnjamin",
+        "civ": "Maya",
+        "rank": 2,
+        "eloChange": -29.299865493965683,
+        "currentElo": 1240.4700945225873
+      }
+    ]
+  },
+  {
+    "date": "2024-11-24T05:44Z",
+    "format": "2v2",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 29.163387531449033,
+        "currentElo": 1602.845499077737
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 1,
+        "eloChange": 36.99718475518455,
+        "currentElo": 1277.467279277772
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -33.29178579759067,
+        "currentElo": 1458.7882244638486
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -31.91791354698647,
+        "currentElo": 1398.5875289143746
+      }
+    ]
+  },
+  {
+    "date": "2024-11-27T03:34Z",
+    "format": "2v2",
+    "players": [
+      {
+        "name": "smallman",
+        "rank": 1,
+        "eloChange": 32.57920509378467,
+        "currentElo": 1532.5792050937846
+      },
+      {
+        "name": "Astra",
+        "rank": 1,
+        "eloChange": 32.57920509378467,
+        "currentElo": 1532.5792050937846
+      },
+      {
+        "name": "ProblemChild",
+        "rank": 2,
+        "eloChange": -33.58612313858502,
+        "currentElo": 1569.259375939152
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -31.551692406499928,
+        "currentElo": 1474.2037636003893
+      }
+    ]
+  },
+  {
+    "date": "2024-11-27T07:59Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "England",
+        "rank": 1,
+        "eloChange": 30.755937011014677,
+        "currentElo": 1600.0153129501666
+      },
+      {
+        "name": "smallman",
+        "rank": 2,
+        "eloChange": -10.838718461091899,
+        "currentElo": 1521.7404866326926
+      },
+      {
+        "name": "Astra",
+        "rank": 2,
+        "eloChange": -10.838718461091899,
+        "currentElo": 1521.7404866326926
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.891101496558216,
+        "currentElo": 1388.6964274178165
+      }
+    ]
+  },
+  {
+    "date": "2024-11-27T07:59Z",
+    "format": "2v3",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 30.470508578401635,
+        "currentElo": 1630.4858215285683
+      },
+      {
+        "name": "smallman",
+        "rank": 1,
+        "eloChange": 32.037841371167886,
+        "currentElo": 1553.7783280038605
+      },
+      {
+        "name": "Astra",
+        "rank": 2,
+        "eloChange": -21.308135550013215,
+        "currentElo": 1500.4323510826794
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -21.003714894742526,
+        "currentElo": 1478.9962851052576
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -20.642503698279324,
+        "currentElo": 1453.56125990211
+      }
+    ]
+  },
+  {
+    "date": "2024-11-28T06:56Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 29.251344046353303,
+        "currentElo": 1659.7371655749216
+      },
+      {
+        "name": "Astra",
+        "rank": 2,
+        "eloChange": -8.05366447194622,
+        "currentElo": 1492.3786866107332
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -7.938605047336985,
+        "currentElo": 1471.0576800579206
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -7.802080959014153,
+        "currentElo": 1445.7591789430958
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -7.453914914420043,
+        "currentElo": 1381.2425125033965
+      }
+    ]
+  },
+  {
+    "date": "2024-11-29T04:59Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "Astra",
+        "rank": 1,
+        "eloChange": 31.771414515695252,
+        "currentElo": 1524.1501011264284
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -31.769769913953986,
+        "currentElo": 1439.2879101439667
+      }
+    ]
+  },
+  {
+    "date": "2024-11-29T05:01Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "banana",
+        "rank": 1,
+        "eloChange": 32.943379740877255,
+        "currentElo": 1472.2312898848438
+      },
+      {
+        "name": "Astra",
+        "rank": 2,
+        "eloChange": -32.91636474294754,
+        "currentElo": 1491.2337363834808
+      }
+    ]
+  },
+  {
+    "date": "2024-12-03T02:19Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 1,
+        "eloChange": 31.050710246469333,
+        "currentElo": 1564.3624118256923
+      },
+      {
+        "name": "Salmon",
+        "rank": 2,
+        "eloChange": -10.753948995942409,
+        "currentElo": 1489.2460510040576
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -10.554866801101408,
+        "currentElo": 1461.6764230837425
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.365080313846414,
+        "currentElo": 1435.3940986292494
+      }
+    ]
+  },
+  {
+    "date": "2024-12-03T17:37Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 29.83731475948038,
+        "currentElo": 1689.574480334402
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -29.680557776244296,
+        "currentElo": 1405.713540853005
+      }
+    ]
+  },
+  {
+    "date": "2024-12-04T00:05Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "rank": 1,
+        "eloChange": 27.992361699806168,
+        "currentElo": 1767.9705943496201
+      },
+      {
+        "name": "ProblemChild",
+        "rank": 2,
+        "eloChange": -11.840572101565856,
+        "currentElo": 1677.7339082328363
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.679775440149585,
+        "currentElo": 1371.562737063247
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -8.952516508586164,
+        "currentElo": 1268.5147627691858
+      }
+    ]
+  },
+  {
+    "date": "2024-12-04T23:26Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "rank": 1,
+        "eloChange": 28.053511703989578,
+        "currentElo": 1796.0241060536098
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -10.7659858179152,
+        "currentElo": 1553.5964260077772
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -10.059297974908132,
+        "currentElo": 1451.6171251088344
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -9.67415985609931,
+        "currentElo": 1396.0393809969057
+      }
+    ]
+  },
+  {
+    "date": "2024-12-06T05:40Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "Greed",
+        "rank": 1,
+        "eloChange": 29.53082413620465,
+        "currentElo": 1529.5308241362047
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -29.324367675042947,
+        "currentElo": 1239.1903950941428
+      }
+    ]
+  },
+  {
+    "date": "2024-12-09T22:09Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Greece",
+        "rank": 1,
+        "eloChange": 26.250551394919984,
+        "currentElo": 1822.2746574485298
+      },
+      {
+        "name": "stevenslushy",
+        "rank": 2,
+        "eloChange": -6.426220329491393,
+        "currentElo": 1472.9418843970534
+      },
+      {
+        "name": "crab",
+        "rank": 2,
+        "eloChange": -6.419203266026851,
+        "currentElo": 1471.3335164680916
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -6.305672976325633,
+        "currentElo": 1445.3114521325087
+      },
+      {
+        "name": "TheBritishMan",
+        "civ": "Austria",
+        "rank": 2,
+        "eloChange": -6.064249068416408,
+        "currentElo": 1389.9751319284894
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -5.3829134774650536,
+        "currentElo": 1233.8074816166777
+      }
+    ]
+  },
+  {
+    "date": "2024-12-09T22:34Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Japan",
+        "rank": 1,
+        "eloChange": 30.816141400102584,
+        "currentElo": 1708.550049632939
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Songhai",
+        "rank": 2,
+        "eloChange": -30.770661300360228,
+        "currentElo": 1522.825764707417
+      }
+    ]
+  },
+  {
+    "date": "2024-12-11T21:25Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Rome",
+        "rank": 1,
+        "eloChange": 30.046998509148796,
+        "currentElo": 1738.5970481420877
+      },
+      {
+        "name": "Ross",
+        "civ": "Shoshone",
+        "rank": 2,
+        "eloChange": -29.920056883944355,
+        "currentElo": 1470.0799431160556
+      }
+    ]
+  },
+  {
+    "date": "2024-12-15T05:03Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "Quinnjamin",
+        "civ": "Maya",
+        "rank": 1,
+        "eloChange": 35.31252417503807,
+        "currentElo": 1269.1200057917158
+      },
+      {
+        "name": "Salmon",
+        "civ": "Russia",
+        "rank": 2,
+        "eloChange": -35.001789763761735,
+        "currentElo": 1454.2442612402958
+      }
+    ]
+  },
+  {
+    "date": "2024-12-15T05:03Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 31.32717145477641,
+        "currentElo": 1554.1529361621933
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "civ": "Persia",
+        "rank": 2,
+        "eloChange": -31.312720796442278,
+        "currentElo": 1427.4755036674062
+      }
+    ]
+  },
+  {
+    "date": "2024-12-07T00:06Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "England",
+        "rank": 1,
+        "eloChange": 27.55944167816818,
+        "currentElo": 1766.156489820256
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -11.071414288139081,
+        "currentElo": 1543.0815218740543
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -10.16899451755275,
+        "currentElo": 1417.3065091498534
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -9.040907775899335,
+        "currentElo": 1260.0790980158165
+      }
+    ]
+  },
+  {
+    "date": "2024-12-18T20:40Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Japan",
+        "rank": 1,
+        "eloChange": 29.509414324074946,
+        "currentElo": 1795.6659041443309
+      },
+      {
+        "name": "Astra",
+        "civ": "America",
+        "rank": 2,
+        "eloChange": -29.299209643595656,
+        "currentElo": 1461.934526739885
+      }
+    ]
+  },
+  {
+    "date": "2024-12-19T21:10Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Japan",
+        "rank": 1,
+        "eloChange": 28.8782214891693,
+        "currentElo": 1824.5441256335002
+      },
+      {
+        "name": "banana",
+        "civ": "America",
+        "rank": 2,
+        "eloChange": -28.540752608880418,
+        "currentElo": 1416.7706995236283
+      }
+    ]
+  },
+  {
+    "date": "2024-12-20T22:59Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 26.89535978243993,
+        "currentElo": 1849.1700172309697
+      },
+      {
+        "name": "Phattus-Blobbus",
+        "rank": 2,
+        "eloChange": -10.55626659617351,
+        "currentElo": 1505.1772061810059
+      },
+      {
+        "name": "banana",
+        "rank": 2,
+        "eloChange": -9.867044225404682,
+        "currentElo": 1406.9036552982236
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.55219513579053,
+        "currentElo": 1362.0105419274564
+      }
+    ]
+  },
+  {
+    "date": "2024-12-28T22:53Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "Phattus-Blobbus",
+        "civ": "China",
+        "rank": 1,
+        "eloChange": 31.122131507639864,
+        "currentElo": 1536.2993376886457
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -11.243735126539098,
+        "currentElo": 1531.837786747515
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -10.327269658862125,
+        "currentElo": 1406.9792394909912
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.128118310236475,
+        "currentElo": 1379.847013618253
+      }
+    ]
+  },
+  {
+    "date": "2025-01-01T23:40Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Korea",
+        "rank": 1,
+        "eloChange": 27.06489420048667,
+        "currentElo": 1851.6090198339868
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -10.588410633323663,
+        "currentElo": 1521.2493761141914
+      },
+      {
+        "name": "Salmon",
+        "rank": 2,
+        "eloChange": -10.052066564998933,
+        "currentElo": 1444.1921946752968
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.414526152579255,
+        "currentElo": 1352.596015774877
+      }
+    ]
+  },
+  {
+    "date": "2025-01-05T22:51Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 28.15789488532208,
+        "currentElo": 1879.766914719309
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "civ": "Persia",
+        "rank": 2,
+        "eloChange": -27.63364505157726,
+        "currentElo": 1379.3455944394138
+      }
+    ]
+  },
+  {
+    "date": "2025-01-06T00:55Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Spain",
+        "rank": 1,
+        "eloChange": 27.744834981941747,
+        "currentElo": 1907.5117497012507
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -27.09222957474824,
+        "currentElo": 1352.7547840435047
+      }
+    ]
+  },
+  {
+    "date": "2025-01-10T07:52Z",
+    "format": "2v2",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Russia",
+        "rank": 1,
+        "eloChange": 26.480758979282843,
+        "currentElo": 1933.9925086805335
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 1,
+        "eloChange": 37.34036611055477,
+        "currentElo": 1390.0951501540594
+      },
+      {
+        "name": "smallman",
+        "rank": 2,
+        "eloChange": -31.498608315148267,
+        "currentElo": 1522.2797196887122
+      },
+      {
+        "name": "DatBoiZook",
+        "rank": 2,
+        "eloChange": -30.408399719039593,
+        "currentElo": 1469.5916002809604
+      }
+    ]
+  },
+  {
+    "date": "2024-01-11T03:00Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "China",
+        "rank": 1,
+        "eloChange": 29.677112642228266,
+        "currentElo": 1550.9264887564195
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.509962630309147,
+        "currentElo": 1379.5851875237502
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -10.428689467935454,
+        "currentElo": 1368.9169049714783
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -10.226446425716627,
+        "currentElo": 1342.3695693491604
+      }
+    ]
+  },
+  {
+    "date": "2025-01-12T01:04Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Zulu",
+        "rank": 1,
+        "eloChange": 29.540485140990157,
+        "currentElo": 1580.4669738974096
+      },
+      {
+        "name": "Phattus-Blobbus",
+        "rank": 2,
+        "eloChange": -11.445788282930145,
+        "currentElo": 1524.8535494057155
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.27823132334351,
+        "currentElo": 1369.3069562004066
+      },
+      {
+        "name": "Quinnjamin",
+        "rank": 2,
+        "eloChange": -9.387883091411952,
+        "currentElo": 1250.6912149244044
+      }
+    ]
+  },
+  {
+    "date": "2025-01-06T00:55Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Arabia",
+        "rank": 1,
+        "eloChange": 29.07526863152688,
+        "currentElo": 1963.0677773120603
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Ethiopia",
+        "rank": 2,
+        "eloChange": -28.78106486384594,
+        "currentElo": 1551.6859090335636
+      }
+    ]
+  },
+  {
+    "date": "2025-01-20T02:41Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "bagole",
+        "civ": "Ethiopia",
+        "rank": 1,
+        "eloChange": 33.56619201244489,
+        "currentElo": 1375.9357613616053
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -11.754613267696007,
+        "currentElo": 1539.9312957658676
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.373023059110333,
+        "currentElo": 1358.9339331412962
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -10.370068272111268,
+        "currentElo": 1358.546836699367
+      }
+    ]
+  },
+  {
+    "date": "2025-01-23T23:04Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "England",
+        "rank": 1,
+        "eloChange": 28.55122264091707,
+        "currentElo": 1991.6189999529774
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "China",
+        "rank": 2,
+        "eloChange": -28.13463574297185,
+        "currentElo": 1511.7966600228958
+      }
+    ]
+  },
+  {
+    "date": "2025-01-26T00:27Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 28.145268026132225,
+        "currentElo": 2019.7642679791097
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -27.61732995225912,
+        "currentElo": 1484.1793300706368
+      }
+    ]
+  },
+  {
+    "date": "2025-02-05T22:56Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Siam",
+        "rank": 1,
+        "eloChange": 27.757247941063092,
+        "currentElo": 2047.5215159201728
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "America",
+        "rank": 2,
+        "eloChange": -27.10873462044014,
+        "currentElo": 1457.0705954501966
+      }
+    ]
+  },
+  {
+    "date": "2025-02-09T23:16Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Zulu",
+        "rank": 1,
+        "eloChange": 38.48370419183477,
+        "currentElo": 1495.5542996420313
+      },
+      {
+        "name": "ProblemChild",
+        "civ": "Iroquois",
+        "rank": 2,
+        "eloChange": -37.39133481289813,
+        "currentElo": 2010.1301811072747
+      }
+    ]
+  },
+  {
+    "date": "2025-02-11T22:27Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Japan",
+        "rank": 1,
+        "eloChange": 27.904138855868208,
+        "currentElo": 2038.034319963143
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Songhai",
+        "rank": 2,
+        "eloChange": -27.30293490549148,
+        "currentElo": 1468.25136473654
+      }
+    ]
+  },
+  {
+    "date": "2025-02-17T02:13Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Russia",
+        "rank": 1,
+        "eloChange": 27.526803845093973,
+        "currentElo": 2065.561123808237
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "China",
+        "rank": 2,
+        "eloChange": -26.799894758486293,
+        "currentElo": 1441.4514699780536
+      }
+    ]
+  },
+  {
+    "date": "2025-02-20T02:32Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "England",
+        "rank": 1,
+        "eloChange": 23.987693258720906,
+        "currentElo": 2089.548817066958
+      },
+      {
+        "name": "Cat",
+        "rank": 2,
+        "eloChange": -7.750053251359736,
+        "currentElo": 1492.2499467486402
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -7.447550434387124,
+        "currentElo": 1434.0039195436666
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -7.109050280668428,
+        "currentElo": 1368.8267110809368
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -7.021206897949851,
+        "currentElo": 1351.9127262433462
+      }
+    ]
+  },
+  {
+    "date": "2025-02-22T00:34Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Greece",
+        "rank": 1,
+        "eloChange": 32.10569963685672,
+        "currentElo": 1466.1096191805234
+      },
+      {
+        "name": "Phattus-Blobbus",
+        "rank": 2,
+        "eloChange": -11.305098747911915,
+        "currentElo": 1513.5484506578036
+      },
+      {
+        "name": "Salmon",
+        "rank": 2,
+        "eloChange": -10.70708421679637,
+        "currentElo": 1433.4851104585005
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -10.022934251421267,
+        "currentElo": 1341.889791991925
+      }
+    ]
+  },
+  {
+    "date": "2025-02-23T03:43Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "SionGragas",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 26.59478585835678,
+        "currentElo": 1875.7648030893265
+      },
+      {
+        "name": "Lethal Princess",
+        "rank": 2,
+        "eloChange": -7.808325039590312,
+        "currentElo": 1492.1916749604097
+      },
+      {
+        "name": "madde",
+        "rank": 2,
+        "eloChange": -7.808325039590312,
+        "currentElo": 1492.1916749604097
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -7.631906966820998,
+        "currentElo": 1458.4777122137025
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -7.1254959219955545,
+        "currentElo": 1361.7012151589413
+      }
+    ]
+  },
+  {
+    "date": "2025-02-24T20:27Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Korea",
+        "rank": 1,
+        "eloChange": 26.275058661710514,
+        "currentElo": 2115.823875728668
+      },
+      {
+        "name": "TheBritishMan",
+        "civ": "Russia",
+        "rank": 2,
+        "eloChange": -25.027679778609585,
+        "currentElo": 1316.8621122133154
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01T01:29Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Siam",
+        "rank": 1,
+        "eloChange": 23.81113154299005,
+        "currentElo": 2139.635007271658
+      },
+      {
+        "name": "smallman",
+        "rank": 2,
+        "eloChange": -7.735259343996688,
+        "currentElo": 1514.5444603447156
+      },
+      {
+        "name": "Phattus-Blobbus",
+        "rank": 2,
+        "eloChange": -7.690892576521066,
+        "currentElo": 1505.8575580812826
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -6.919301303208414,
+        "currentElo": 1354.781913855733
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -6.90327275396195,
+        "currentElo": 1351.643563945405
+      }
+    ]
+  },
+  {
+    "date": "2025-03-01T21:56Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Maya",
+        "rank": 1,
+        "eloChange": 26.906366420493153,
+        "currentElo": 2166.5413736921514
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Zulu",
+        "rank": 2,
+        "eloChange": -25.94209266324146,
+        "currentElo": 1432.535619550461
+      }
+    ]
+  },
+  {
+    "date": "2025-03-03T02:54Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Greece",
+        "rank": 1,
+        "eloChange": 35.018862686454966,
+        "currentElo": 1467.5544822369159
+      },
+      {
+        "name": "ProblemChild",
+        "rank": 2,
+        "eloChange": -14.741382741503653,
+        "currentElo": 2151.799990950648
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.218083238991937,
+        "currentElo": 1345.563830616741
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -8.960072791427688,
+        "currentElo": 1307.9020394218878
+      }
+    ]
+  },
+  {
+    "date": "2025-03-08T06:08Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Byzantium",
+        "rank": 1,
+        "eloChange": 23.321202229227303,
+        "currentElo": 2175.1211931798753
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -9.982058226231777,
+        "currentElo": 1457.572424010684
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.152298375904152,
+        "currentElo": 1336.4115322408368
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -8.896129220236295,
+        "currentElo": 1299.0059102016514
+      }
+    ]
+  },
+  {
+    "date": "2025-03-25T02:16Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 31.76054214258723,
+        "currentElo": 1489.3329661532712
+      },
+      {
+        "name": "Phattus-Blobbus",
+        "rank": 2,
+        "eloChange": -8.327330624999833,
+        "currentElo": 1497.5302274562828
+      },
+      {
+        "name": "sammieaurelia",
+        "rank": 2,
+        "eloChange": -8.294938568701937,
+        "currentElo": 1491.705061431298
+      },
+      {
+        "name": "Salmon",
+        "rank": 2,
+        "eloChange": -7.927113953601448,
+        "currentElo": 1425.557996504899
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -7.390301041628379,
+        "currentElo": 1329.0212311992084
+      }
+    ]
+  },
+  {
+    "date": "2025-03-16T23:58Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Aztec",
+        "rank": 1,
+        "eloChange": 31.25347698375568,
+        "currentElo": 1520.586443137027
+      },
+      {
+        "name": "AGuyWithInternet",
+        "rank": 2,
+        "eloChange": -10.999674105285967,
+        "currentElo": 1489.000325894714
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -10.999674105285967,
+        "currentElo": 1489.000325894714
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.74586694813147,
+        "currentElo": 1319.275364251077
+      }
+    ]
+  },
+  {
+    "date": "2025-03-17T12:18Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "Comrade",
+        "civ": "Persia",
+        "rank": 1,
+        "eloChange": 31.941335071438477,
+        "currentElo": 1531.9413350714385
+      },
+      {
+        "name": "JTP",
+        "rank": 2,
+        "eloChange": -10.686257558424634,
+        "currentElo": 1489.3137424415754
+      },
+      {
+        "name": "Yoeal",
+        "rank": 2,
+        "eloChange": -10.686257558424634,
+        "currentElo": 1489.3137424415754
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -10.607893991392753,
+        "currentElo": 1478.3924319033213
+      }
+    ]
+  },
+  {
+    "date": "2025-03-18T05:58Z",
+    "format": "4 ffa",
+    "victoryType": "science",
+    "players": [
+      {
+        "name": "Benson",
+        "civ": "Netherlands",
+        "rank": 1,
+        "eloChange": 31.255473119837532,
+        "currentElo": 1509.6479050231587
+      },
+      {
+        "name": "Yoeal",
+        "rank": 2,
+        "eloChange": -11.001428761661062,
+        "currentElo": 1478.3123136799143
+      },
+      {
+        "name": "AGuyWithInternet",
+        "rank": 2,
+        "eloChange": -10.999113581377175,
+        "currentElo": 1478.0012123133367
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.745370316014553,
+        "currentElo": 1309.5299939350625
+      }
+    ]
+  },
+  {
+    "date": "2025-03-22T02:37Z",
+    "format": "5 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 23.46519409843175,
+        "currentElo": 2198.586387278307
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -7.626819505902699,
+        "currentElo": 1512.9596236311243
+      },
+      {
+        "name": "sammieaurelia",
+        "rank": 2,
+        "eloChange": -7.481958892193527,
+        "currentElo": 1484.2231025391045
+      },
+      {
+        "name": "AGuyWithInternet",
+        "rank": 2,
+        "eloChange": -7.413224369253029,
+        "currentElo": 1470.5879879440838
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -6.568221718920425,
+        "currentElo": 1302.9617722161422
+      }
+    ]
+  },
+  {
+    "date": "2025-03-22T02:37Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "rank": 1,
+        "eloChange": 22.48311269444712,
+        "currentElo": 2221.0694999727543
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -6.268408898328441,
+        "currentElo": 1506.6912147327957
+      },
+      {
+        "name": "sammieaurelia",
+        "rank": 2,
+        "eloChange": -6.149349366463407,
+        "currentElo": 1478.073753172641
+      },
+      {
+        "name": "AGuyWithInternet",
+        "rank": 2,
+        "eloChange": -6.092857129445194,
+        "currentElo": 1464.4951308146385
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.39835765579742,
+        "currentElo": 1297.5634145603449
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -5.381967951627601,
+        "currentElo": 1293.623942250024
+      }
+    ]
+  },
+  {
+    "date": "2025-03-22T10:20Z",
+    "format": "4 ffa",
+    "players": [
+      {
+        "name": "JTP",
+        "rank": 1,
+        "eloChange": 31.139876793183838,
+        "currentElo": 1520.4536192347593
+      },
+      {
+        "name": "Comrade",
+        "rank": 2,
+        "eloChange": -11.275031129453389,
+        "currentElo": 1520.6663039419852
+      },
+      {
+        "name": "Yoeal",
+        "rank": 2,
+        "eloChange": -10.880323530808065,
+        "currentElo": 1467.4319901491062
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.550018369943311,
+        "currentElo": 1288.0133961904016
+      }
+    ]
+  },
+  {
+    "date": "2025-03-23T03:28Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "China",
+        "rank": 1,
+        "eloChange": 30.507220035206576,
+        "currentElo": 1537.1984347680022
+      },
+      {
+        "name": "JTP",
+        "rank": 2,
+        "eloChange": -6.774484268487273,
+        "currentElo": 1513.6791349662722
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -6.726338675612759,
+        "currentElo": 1502.9215663475459
+      },
+      {
+        "name": "InfantHades",
+        "rank": 2,
+        "eloChange": -6.6833517801386675,
+        "currentElo": 1493.3166482198612
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -5.763829251511133,
+        "currentElo": 1287.8601129985127
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.738831082847716,
+        "currentElo": 1282.2745651075538
+      }
+    ]
+  },
+  {
+    "date": "2025-03-23T03:28Z",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "Comrade",
+        "civ": "China",
+        "rank": 1,
+        "eloChange": 30.188176191095945,
+        "currentElo": 1550.854480133081
+      },
+      {
+        "name": "JTP",
+        "rank": 2,
+        "eloChange": -6.752941354539224,
+        "currentElo": 1506.926193611733
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -6.70494886503364,
+        "currentElo": 1496.2166174825122
+      },
+      {
+        "name": "Draxty",
+        "rank": 2,
+        "eloChange": -6.691914949355855,
+        "currentElo": 1493.3080850506442
+      },
+      {
+        "name": "TheBritishMan",
+        "rank": 2,
+        "eloChange": -5.745500228569246,
+        "currentElo": 1282.1146127699435
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.720581554281345,
+        "currentElo": 1276.5539835532725
+      }
+    ]
+  },
+  {
+    "date": "2025-03-23T23:45",
+    "format": "6 ffa",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Siam",
+        "rank": 1,
+        "eloChange": 22.546755470008446,
+        "currentElo": 2243.616255442763
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -6.286568944201819,
+        "currentElo": 1530.9118658238003
+      },
+      {
+        "name": "JTP",
+        "rank": 2,
+        "eloChange": -6.162766755219552,
+        "currentElo": 1500.7634268565134
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -6.1189685784996515,
+        "currentElo": 1490.0976489040127
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -5.527718647470433,
+        "currentElo": 1346.1158452979346
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.220630236859626,
+        "currentElo": 1271.3333533164127
+      }
+    ]
+  },
+  {
+    "date": "2025-03-23T23:45",
+    "format": "6 ffa",
+    "victoryType": "science",
+    "players": [
+      {
+        "name": "sammieaurelia",
+        "civ": "Indonesia",
+        "rank": 1,
+        "eloChange": 31.06285821167572,
+        "currentElo": 1509.136611384317
+      },
+      {
+        "name": "BREADNAUTICAL",
+        "rank": 2,
+        "eloChange": -6.828772148059574,
+        "currentElo": 1524.0830936757407
+      },
+      {
+        "name": "Lethal Princess",
+        "rank": 2,
+        "eloChange": -6.656057201603012,
+        "currentElo": 1485.5356177588067
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -6.6467166071962,
+        "currentElo": 1483.4509322968165
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "rank": 2,
+        "eloChange": -6.004472626832583,
+        "currentElo": 1340.111372671102
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.6708984937905695,
+        "currentElo": 1265.662454822622
+      }
+    ]
+  },
+  {
+    "date": "2025-03-27T18:58Z",
+    "format": "1v1",
+    "players": [
+      {
+        "name": "ProblemChild",
+        "civ": "Celts",
+        "rank": 1,
+        "eloChange": 25.556795602065307,
+        "currentElo": 2269.1730510448283
+      },
+      {
+        "name": "CameronTheDeviledEgg",
+        "civ": "Brazil",
+        "rank": 2,
+        "eloChange": -23.932379006183076,
+        "currentElo": 1316.1789936649188
+      }
+    ]
+  },
+  {
+    "date": "2025-03-29T08:49Z",
+    "format": "6 ffa",
+    "victoryType": "culture",
+    "players": [
+      {
+        "name": "Comrade",
+        "civ": "Polynesia",
+        "rank": 1,
+        "eloChange": 30.417275027321335,
+        "currentElo": 1581.2717551604023
+      },
+      {
+        "name": "Comrade",
+        "rank": 2,
+        "eloChange": -6.8650722511909,
+        "currentElo": 1574.4066829092114
+      },
+      {
+        "name": "JTP",
+        "rank": 2,
+        "eloChange": -6.515546314978417,
+        "currentElo": 1494.247880541535
+      },
+      {
+        "name": "Draxty",
+        "rank": 2,
+        "eloChange": -6.483179038457105,
+        "currentElo": 1486.824906012187
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -6.440384328676695,
+        "currentElo": 1477.01054796814
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.4948582807612025,
+        "currentElo": 1260.1675965418608
+      }
+    ]
+  },
+  {
+    "date": "2025-03-30T06:56Z",
+    "format": "6 ffa",
+    "victoryType": "science",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Indonesia",
+        "rank": 1,
+        "eloChange": 30.873182225532688,
+        "currentElo": 1554.9562759012733
+      },
+      {
+        "name": "Comrade",
+        "rank": 2,
+        "eloChange": -6.85262292738383,
+        "currentElo": 1567.5540599818275
+      },
+      {
+        "name": "RaptorCrasher",
+        "rank": 2,
+        "eloChange": -6.528766996899544,
+        "currentElo": 1493.4712330031005
+      },
+      {
+        "name": "Draxty",
+        "rank": 2,
+        "eloChange": -6.4714222510270885,
+        "currentElo": 1480.35348376116
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -6.428705146431268,
+        "currentElo": 1470.5818428217087
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -5.4848937432431475,
+        "currentElo": 1254.6827027986176
+      }
+    ]
+  },
+  {
+    "date": "2025-04-01T02:18Z",
+    "format": "4 ffa",
+    "victoryType": "science",
+    "players": [
+      {
+        "name": "BREADNAUTICAL",
+        "civ": "Siam",
+        "rank": 1,
+        "eloChange": 29.7087129281043,
+        "currentElo": 1584.6649888293775
+      },
+      {
+        "name": "JTP",
+        "rank": 2,
+        "eloChange": -11.040769207677968,
+        "currentElo": 1483.207111333857
+      },
+      {
+        "name": "Benson",
+        "rank": 2,
+        "eloChange": -10.865904472096005,
+        "currentElo": 1459.7159383496128
+      },
+      {
+        "name": "bagole",
+        "rank": 2,
+        "eloChange": -9.270658724605155,
+        "currentElo": 1245.4120440740123
+      }
+    ]
+  },
+  {
+    "date": "2025-04-01T02:18Z",
+    "format": "4 ffa",
+    "victoryType": "science",
+    "players": [
+      {
+        "name": "JTP",
+        "civ": "England",
+        "rank": 1,
+        "eloChange": 30.52665304516131,
+        "currentElo": 1513.7337643790183
+      },
+      {
+        "name": "crab",
+        "civ": "Japan",
+        "rank": 2,
+        "eloChange": -11.091973934519196,
+        "currentElo": 1460.2415425335723
+      },
+      {
+        "name": "Benson",
+        "civ": "Denmark",
+        "rank": 2,
+        "eloChange": -11.004392246050807,
+        "currentElo": 1448.711546103562
+      },
+      {
+        "name": "bagole",
+        "civ": "Polynesia",
+        "rank": 2,
+        "eloChange": -9.388814824096206,
+        "currentElo": 1236.023229249916
       }
     ]
   }

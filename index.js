@@ -43,7 +43,7 @@ function gamePlayerCard(player) {
 					? '<img src="win-icons/crown.svg" alt="winner" width="25" height="25" title="Winner">'
 					: `<h3>${player.rank}&nbsp</h3>`
 				}
-				<img class="small-icon" src="civ-icons/${player.civ}.webp" alt="${player.civ}" title="${player.civ}">
+				${player.civ? `<img class="small-icon" src="civ-icons/${player.civ}.webp" alt="${player.civ}" title="${player.civ}">` : ''}
 				<h3>&nbsp${player.name}</h3>
 			</div>
 			<div class="game-player-card-body">
@@ -73,8 +73,8 @@ async function displayGameResults() {
 					${winners.map(winner => `
 						<div class="icon-container">
 							<img src="win-icons/crown.svg" alt="winner" width="35" height="35" title="Winner">
-							<img class="icon" src="win-icons/${game.victoryType}.webp" alt="${game.victoryType}" title="${game.victoryType}">
-							<img class="icon" src="civ-icons/${winner.civ}.webp" alt="${winner.civ} title="${winner.civ}"">
+							${game.victoryType? `<img class="icon" src="win-icons/${game.victoryType}.webp" alt="${game.victoryType}" title="${game.victoryType}">`: ''}
+							${winner.civ? `<img class="icon" src="civ-icons/${winner.civ}.webp" alt="${winner.civ}" title="${winner.civ}">` : ''}
 							<h2>&nbsp${winner.name}</h2>
 						</div>
 					`).join('')}
